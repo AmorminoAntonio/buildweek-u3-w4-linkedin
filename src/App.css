@@ -1,0 +1,32 @@
+/*Generale*/
+body {
+  background-color: #f4f2ee;
+}
+.btn-custom:hover {
+  background-color: #0000000f !important;
+}
+.fs-7 {
+  font-size: 0.8rem;
+}
+
+/*Navbar*/
+.bg-searchbar {
+  background-color: #edf3f8;
+  border: none;
+}
+#search-bar {
+  width: 350px;
+  margin-right: 50px;
+}
+.link-premium {
+  color: #8a5607;
+  text-decoration: underline;
+}
+/*footer*/
+#dropdown-basic-button {
+  width: 300px;
+}
+
+#form-lang {
+  width: 250px;
+}
